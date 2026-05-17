@@ -89,4 +89,5 @@
 
 * I like coffee
 * Jujutsu kaisen is my favorite anime
+* Uncharted 4 is my favorite game 
 * **Hobbies:** anime, games, building things
